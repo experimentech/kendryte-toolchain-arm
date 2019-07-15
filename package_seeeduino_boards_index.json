@@ -1333,7 +1333,7 @@
               "host": "arm-linux-gnueabihf",
               "archiveFileName": "kendryte-toolchain-arm-linux-gnueabihf-8.2.0-20190715.tar.bz2",
               "size": "267584362"
-            }
+            },
             {
               "url": "https://github.com/experimentech/kendryte-toolchain-arm/releases/download/0/kendryte-toolchain-aarch64-linux-gnu-8.2.0-20190715.tar.bz2",
               "checksum": "SHA-256:c4f7818345861a014534d13584cb93eb85d5bd29e1ba16ac2c98c74e2391490e",
