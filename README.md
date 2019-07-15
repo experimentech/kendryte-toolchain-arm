@@ -10,3 +10,15 @@ Please consider the state of this repository to be non-working unless stated oth
 
 The toolchains were built unmodified from https://github.com/kendryte/kendryte-gnu-toolchain
 
+Copy the following url:
+https://raw.githubusercontent.com/experimentech/kendryte-toolchain-arm/master/package_seeeduino_boards_index.json
+In Arduino, paste it into "File -> Preferences -> Additional Boards Manager URLs" on a new line and press "OK".
+Go to boards manager, find "Grove AI HAT" and download it.
+
+If you are extremely lucky the installation will work.
+
+The armhf version was built on a Raspberry Pi 3 running Raspbian Stretch.
+The aarch64 version was build on an nVidia Jetson Nano running Ubuntu Bionic(?).
+
+There is a chance these will require installation of additional libraries. The aarch64 version does not appear to be totally functional in Ubuntu Xenial because of older shared library versions. Building from the Kendryte GNU Toolchain and then substituting the freshly built tree for the broken one in ~/.arduino15/packages/Seeeduino/tools/riscv64-unknown-elf-gcc
+
