@@ -10,10 +10,13 @@ Please consider the state of this repository to be non-working unless stated oth
 
 The toolchains were built unmodified from https://github.com/kendryte/kendryte-gnu-toolchain
 
-Copy the following url:
+Copy the following url: CURRENTLY BROKEN
 https://raw.githubusercontent.com/experimentech/kendryte-toolchain-arm/master/package_seeeduino_boards_index.json
 In Arduino, paste it into "File -> Preferences -> Additional Boards Manager URLs" on a new line and press "OK".
 Go to boards manager, find "Grove AI HAT" and download it.
+
+This cut down .json may possibly work.
+https://raw.githubusercontent.com/experimentech/kendryte-toolchain-arm/master/package_grove_ai_hat_armhost_index.json
 
 If you are extremely lucky the installation will work.
 
