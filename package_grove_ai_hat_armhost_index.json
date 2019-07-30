@@ -49,11 +49,11 @@
           "systems": [
  
             {
-              "url": "https://github.com/experimentech/kendryte-toolchain-arm/releases/download/0/kendryte-toolchain-arm-linux-gnueabihf-8.2.0-20190715.tar.bz2",
-              "checksum": "SHA-256:4902dcfa65a680c1f4a5e49caee6b0904dadd60456eb28be0760f4bde4fb27a1",
+              "url": "https://github.com/experimentech/kendryte-toolchain-arm/releases/download/0/kendryte-toolchain-arm-linux-gnueabihf-8.2.0-20190730.tar.bz2",
+              "checksum": "SHA-256:a97494df512704482a3bffc69d0fc87ebcd0849d47be3a42ef6b41c8a7a547b2",
               "host": "arm-linux-gnueabihf",
-              "archiveFileName": "kendryte-toolchain-arm-linux-gnueabihf-8.2.0-20190715.tar.bz2",
-              "size": "267584362"
+              "archiveFileName": "kendryte-toolchain-arm-linux-gnueabihf-8.2.0-20190730.tar.bz2",
+              "size": "267607428"
             },
             {
               "url": "https://github.com/experimentech/kendryte-toolchain-arm/releases/download/0/kendryte-toolchain-aarch64-linux-gnu-8.2.0-20190730-1.tar.bz2",
