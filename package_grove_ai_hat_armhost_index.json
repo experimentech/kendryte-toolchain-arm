@@ -56,7 +56,7 @@
               "size": "267584362"
             },
             {
-              "url": "https://github.com/experimentech/kendryte-toolchain-arm/releases/download/0/kendryte-toolchain-aarch64-linux-gnu-8.2.0-20190715.tar.bz2",
+              "url": "https://github.com/experimentech/kendryte-toolchain-arm/releases/download/0/kendryte-toolchain-aarch64-linux-gnu-8.2.0-20190730.tar.bz2",
               "checksum": "SHA-256:9646ddc4d4a95a507ff868841e408b57b150951385cfe0e2320d1ba7c00657bb",
               "host": "aarch64-linux-gnu",
               "archiveFileName": "kendryte-toolchain-aarch64-linux-gnu-8.2.0-20190730.tar.bz2",
