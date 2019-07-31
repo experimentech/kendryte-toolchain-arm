@@ -27,4 +27,6 @@ The aarch64 version was build on an nVidia Jetson Nano running Ubuntu Bionic.
 There is a chance these will require installation of additional libraries. The aarch64 version does not appear to be totally functional in Ubuntu Xenial because of older shared library versions.
 If there are other libraries required, try installing the packages suggested in the Kendryte GNU toolchain repository.
 
+Installing the pyserial module with pip3, and adding the user to the dialout and possibly tty groups are required to use k-flash.
+
 At this time the toolchain archives are still very heavyweight at around 300MB as they are the entire standalone toolchains packaged for Arduino to use.
